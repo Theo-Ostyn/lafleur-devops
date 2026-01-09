@@ -19,4 +19,4 @@ jobs:
       - name: SonarCloud Scan
         uses: SonarSource/sonarqube-scan-action@v5.0.0
         env:
-      SONAR_Token: ${{ secrets.TOKEN_LAFLEUR_DEV }}
+          SONAR_Token: ${{ secrets.TOKEN_LAFLEUR_DEV }}
