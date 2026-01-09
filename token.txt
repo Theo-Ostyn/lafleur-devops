@@ -1,1 +1,6 @@
+token Github
 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
+
+token Sonar Qube Cloud
+8acd9636b216a95ecdadf3f0ddb6e5f97b1b4280
+a727ec39da4a6c8a88565f2ce476c0521b8b8db8
